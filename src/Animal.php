@@ -1,7 +1,6 @@
 <?php
 
 namespace ZooKeeper;
-
 class Animal
 {
     private $name;
